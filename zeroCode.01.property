@@ -1,0 +1,8 @@
+ExcelFilePath : C:\\Auto\\data\\TestData_01.xls
+outputJsonFilePath : C:\\Auto\\log\\data{str}.js
+outputJsonListFilePath : C:\\Auto\\log\\dataList.js
+outputReplace :  {str}
+ISInterctive : Y
+licenceKey: A
+ImageFilePath : C:\\Auto\\Images
+DataSheetName: GData
